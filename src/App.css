@@ -1,0 +1,107 @@
+i{
+    cursor: pointer;
+  }
+  .imageIndia{
+    width:4%;
+    height: 600;
+    position: relative;
+    left: 55px;
+}
+.titl{
+    display: inline;
+    position: relative;
+    left:80px;
+}
+.italic{
+    font-style: italic;
+    position: relative;
+    left: 125px;
+    top:-25px;
+}
+#welcomefarmer{
+    text-decoration: solid;
+    color: rgb(177, 230, 247);
+    font-size: x-large;
+}
+#telanganamappointer{
+    height: 45px ;
+    position: relative;
+    top:-30vw;
+    left:34.5vw;
+}
+.mappointer{
+    cursor: pointer;
+}
+#telanganadistrictsmap{
+    width: 40%;
+}
+.bhoomb{
+    position: relative;
+    left: 4vw;
+}
+
+/* for start page button  */
+.startpagebutton{
+    background: #ff0000;
+  background-image: -webkit-linear-gradient(top, #ff0000, #a0d428);
+  background-image: -moz-linear-gradient(top, #ff0000, #a0d428);
+  background-image: -ms-linear-gradient(top, #ff0000, #a0d428);
+  background-image: -o-linear-gradient(top, #ff0000, #a0d428);
+  background-image: linear-gradient(to bottom, #ff0000, #a0d428);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  padding: 5px 8px ;
+  font-size: 30px !important;
+  text-decoration: none;
+  width:fit-content;
+
+}
+
+.startpagebutton:hover{
+    background: #0015ff;
+    background-image: -webkit-linear-gradient(top, #0015ff, #99c8e8);
+    background-image: -moz-linear-gradient(top, #0015ff, #99c8e8);
+    background-image: -ms-linear-gradient(top, #0015ff, #99c8e8);
+    background-image: -o-linear-gradient(top, #0015ff, #99c8e8);
+    background-image: linear-gradient(to bottom, #0015ff, #99c8e8);
+    text-decoration: none;
+}
+
+.startpageimg{
+    border-radius: 25px;
+}
+
+
+/* 
+ */
+
+ #timelinesellingimg{
+     width: 130%;
+     cursor: pointer;
+ }
+ #timelinesellingimg:hover{
+    width:140%
+ }
+ #seedselectiontimg{
+     width : 80%
+ }
+ #seedselectiontimg:hover{
+     width: 90%;
+ }
+
+ #harvestingstoragetimg{
+     width: 50%;
+ }
+ #harvestingstoragetimg:hover{
+     width: 60%;
+ }
+
+#irrigationtimg:hover{
+width:110%
+}
+#cropselectionimg:hover{
+    width: 45%;
+}
